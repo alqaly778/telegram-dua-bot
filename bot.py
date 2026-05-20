@@ -2,8 +2,8 @@ import random
 import time
 from telegram import Bot
 
-TOKEN = "@daily_dua_channel"
-CHANNEL_ID = "@اسم_القناة"
+TOKEN = "7830054531:AAEDOzcGs6S-i56qkf2AVMCb71TdDsR-h-g"
+CHANNEL_ID = "@azkar_daily_ar"
 
 bot = Bot(token=TOKEN)
 
