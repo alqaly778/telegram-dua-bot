@@ -1,1 +1,1 @@
-# telegram-dua-bot
+@azkar_daily_ar
